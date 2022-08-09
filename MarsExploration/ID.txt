@@ -1,8 +1,0 @@
-Team 8 Mars Astromission
-
-	 name		  SEC		BN		ID		E-mail
-
-   Omar Khaled Ali	   2		3	      9202938     omarkh200165@gmail.com		
-  Nour Ziad Almulhem	   2		30	      9204005	  nouralmulhem@gmail.com
-Kareem Ashraf Mohammed     2		7	      9203063     Kemokhalifa5@gmail.com
-Mahmoud Abdelhamid ali	   2		21	      9203420     mahmoud13abdelhamid@gmail.com
