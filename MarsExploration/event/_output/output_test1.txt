@@ -1,0 +1,11 @@
+CD	ID	FD	WD	ED
+9	1	2	0	7
+16	3	5	0	11
+19	2	5	0	14
+25	4	6	0	19
+31	6	25	0	6
+38	5	18	0	20
+Missions : 6 [M: 3, P: 2, E: 1]
+Rovers : 8 [M: 3, P: 3, E: 2]
+Avg Wait = 0, Avg Exec = 12.8333
+Auto-promoted: 0%
