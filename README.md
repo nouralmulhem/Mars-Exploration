@@ -3,8 +3,6 @@
 
 Welcome to **Mars Exploration System** — a dynamic project that simulates the extraordinary challenges of managing missions on the Red Planet! 🌕 With advanced data structures and algorithms, this project prioritizes missions, schedules rover expeditions, and delivers crucial statistics on the performance of your Mars exploration fleet. 👩‍🚀👨‍🚀
 
-![Mars Rover](https://media.giphy.com/media/l41YwWrjAa5TQrtBK/giphy.gif)
-
 ## 🌟 Key Features
 
 - **Mission Prioritization** 🏆  
@@ -56,5 +54,3 @@ By exploring this project, you will dive into the world of:
 
 ## 🚀 Ready to Explore?  
 Unlock the mysteries of Mars with the power of data structures and algorithms! Your journey starts now — good luck, explorer! 👨‍🚀👩‍🚀
-
-![Mars Exploration](https://media.giphy.com/media/xTiTnqEbrFRwVSSsf2/giphy.gif)
